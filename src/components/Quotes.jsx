@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import Button from './button'
+import Button from './Button'
 import quotes from '../jasons/quotes.json'
 import colors from '../jasons/colors.json'
 import '../App.css'
